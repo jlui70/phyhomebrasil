@@ -44,32 +44,35 @@
 
 ### 📡 **ONUs**
 
-#### 📂 **FHR2100GK - ONU XPON**
+#### 📂 **FHR2100GZ - ONU XPON**
 | Tópico | Link FAQ |
 |--------|----------|
-| 🔄 Atualização de Firmware | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-ONU-XPON-FHR2100GK-01-20) |
-| 🔧 Editar PON Serial Number | [📖 Ver solução](https://telegra.ph/Editar-o-Pon-Serial-Number-da-FHR2100GK-01-20) |
-| 🌐 Acesso Remoto (Router) | [📖 Ver solução](https://telegra.ph/Acesso-Remoto-ONU-XPON-FHR2100GK-Modo-Router-10-07) |
-| 🔧 Configuração SFU Bridge | [📖 Ver solução](https://telegra.ph/ONU-Type-SFU-bridge-na-XPON-FHR2100GK-09-30) |
-| 📦 Firmware Atualizado | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-ONU-XPON-FHR2100GK-10-27) |
+| 🔄 XPON-GPON-EPON Mode Control FHR2100GZ PRO | [📖 Ver solução](https://telegra.ph/XPON-GPON-EPON-Mode-Control-FHR2100GZ-PRO-12-12) |
+| 🛠️ Restaurar FHR2100GZ padrão de Fabrica | [📖 Ver solução](https://telegra.ph/Restaurar-a-ONU-XPON-FHR2100GZ-padr%C3%A3o-de-FabricaExclus%C3%A3o-total-das-configura%C3%A7%C3%B5es-09-27) |
+
 
 #### 📂 **P20 MTK - ONU Wireless AC**
 | Tópico | Link FAQ |
 |--------|----------|
-| 📶 Atualização de Firmware P20 AC1200 ONT xPON | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-P20-AC1200-ONT-xPON-08-29) |
 | 🔄 Atualização modo Tftp Wireless xPON ONT | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-modo-Tftp-P20-AC1200-Wireless-xPON-ONT-05-14) |
 | 🌐 Atualização Wireless xPON ONT UNM (Fiberhome) | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-na-P20-AC1200-Wireless-xPON-ONT-para-obter-informa%C3%A7%C3%B5es-no-UNM-Fiberhome-07-08) |
-| 🛠️ Preset Parcial Passo a Passo na P20 AC1200 Wireless xPON ONT | [📖 Ver solução](https://telegra.ph/Preset-Parcial-Passo-a-Passo-Xpon-Ont-P20-07-08) |
-| 🛠️ Atualização do Pon Serial Number da Ont P20 AC1200 xPON | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-do-Pon-Serial-Number-da-Ont-P20-AC1200-xPON-06-29) |
+| ⚙️ Preset Parcial Passo a Passo na P20 AC1200 Wireless xPON ONT | [📖 Ver solução](https://telegra.ph/Preset-Parcial-Passo-a-Passo-Xpon-Ont-P20-07-08) |
+| 🔧 Atualização do Pon Serial Number da Ont P20 AC1200 xPON | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-do-Pon-Serial-Number-da-Ont-P20-AC1200-xPON-06-29) |
 | 🛠️ Redirecionamento de portas na xPON Ont P20 AC1200 | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-portas-na-xPON-Ont-P20-AC1200-06-03) |
+| 🔄 P20 modo XPON Default | [📖 Ver solução](https://telegra.ph/P20-modo-XPON-Default-02-13) |
+| 📦 Alteração modo OMCI para OLT de outros fabricantes | [📖 Ver solução](https://telegra.ph/Altera%C3%A7%C3%A3o-modo-OMCI-para-OLT-de-outros-fabricantes-na-ONT-P20-AC1200-WIRELESS-XPON-07-09) |
+| 📡 VOIP na AC1200 WIRELESS XPON ONT P20 | [📖 Ver solução](https://telegra.ph/VOIP-na-AC1200-WIRELESS-XPON-ONT-P20-07-30) |
+| 🌐 Preset Parcial Passo a Passo xPon Ont P20 AC1200 MTK | [📖 Ver solução](https://telegra.ph/Preset-Parcial-Passo-a-Passo-xPon-Ont-P20-AC1200-MTK-11-14) |
 
 #### 📂 **P20 ZTE - ONU Wireless AC**
 | Tópico | Link FAQ |
 |--------|----------|
-| ⚙️ Configuração Avançada | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-ONT-P20-ZTE-AC1200-01-25) |
-| 🛠️ Troubleshooting | [📖 Ver solução](https://telegra.ph/Gerenciamento-de-configura%C3%A7%C3%A3o-do-usu%C3%A1rio-backu-up-P20-AC1200-Pro-01-26) |
-| 🔐 Configuração de Segurança | [📖 Ver solução](https://telegra.ph/Acesso-Remoto-P20-AC1200-ONT-PRO-10-28) |
-| 📶 Otimização WiFi | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-Portas-na-P20-AC1200-Wireless-GPON-ONT-Pro-Z-08-24-2) |
+| ⚙️ Acesso Remoto P20 AC1200 ONT PRO | [📖 Ver solução](https://telegra.ph/Acesso-Remoto-P20-AC1200-ONT-PRO-10-28) |
+| 🛠️ Gerenciamento de configuração do usuário (backu-up) | [📖 Ver solução](https://telegra.ph/Gerenciamento-de-configura%C3%A7%C3%A3o-do-usu%C3%A1rio-backu-up-P20-AC1200-Pro-01-26) |
+| 🔐 Redirecionamento de Portas na P20 AC1200 Wireless GPON ONT Pro "Z" | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-Portas-na-P20-AC1200-Wireless-GPON-ONT-Pro-Z-08-24-2) |
+| 📶 AC1200 Wireless P20 ONT PRO CONFIGURAÇÃO OMCI | [📖 Ver solução](https://telegra.ph/AC1200-Wireless-P20-ONT-PRO-CONFIGURA%C3%87%C3%83O-OMCI-08-11) |
+| 📶 Configuração OLT VSOL Funcionando com a AC1200 Wireless P20 ONT PRO | [📖 Ver solução](https://telegra.ph/Configura%C3%A7%C3%A3o-OLT-VSOL-Funcionando-com-a-AC1200-Wireless-P20-ONT-PRO-06-02) |
+| 📶 Primeira configuração WAN como administrador | [📖 Ver solução](https://telegra.ph/Acessar-a-AC1200-Wireless-P20-ONT-PRO-como-administrador-e-fazer-a-primeira-configura%C3%A7%C3%A3o-WAN-12-29) |
 
 ---
 
