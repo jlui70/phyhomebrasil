@@ -8,7 +8,6 @@
 - Downloads diretos de firmwares oficiais
 - Versões organizadas por produto
 - Changelogs detalhados
-- **Acesso direto**: [Releases](https://github.com/jlui70/phyhomebrasil/releases)
 
 ### 📚 [**Manuais**](https://github.com/jlui70/phyhomebrasil/tree/main/manuais)
 - Manuais técnicos em PDF
@@ -21,12 +20,6 @@
 - Dicas de configuração
 - Soluções organizadas por produto
 - Guias de troubleshooting
-
-### 🌐 [**Site Oficial**](https://jlui70.github.io/phyhomebrasil)
-- Portal principal de downloads
-- Navegação por produto
-- Interface amigável
-- Acesso rápido a todos os recursos
 
 ---
 
@@ -47,38 +40,11 @@
 
 ---
 
-## 📥 **Como Fazer Downloads**
-
-### **Firmwares:**
-1. Acesse: [Releases de Firmwares](https://github.com/jlui70/phyhomebrasil/releases)
-2. Escolha seu produto
-3. Clique no arquivo `.zip`
-4. Download automático
-
-### **Manuais:**
-1. Acesse: [Repositório de Manuais](https://github.com/jlui70/phyhomebrasil/tree/main/manuais)
-2. Entre na pasta do seu produto
-3. Clique no manual desejado
-4. Baixe o PDF
-
-### **FAQs:**
-1. Acesse: [FAQs por Produto](https://github.com/jlui70/phyhomebrasil/tree/main/faqs)
-2. Escolha seu produto
-3. Clique nos links das dúvidas
-4. Acesse o conteúdo online
-
----
-
-## 📞 **Contato e Suporte**
-
 ### 📺 **Canal Oficial**
 🎥 **YouTube**: [Phyhome Brasil](https://www.youtube.com/@phyhomebrasil1545)
 - Vídeos dos produtos
 - Tutoriais de instalação
 - Demonstrações técnicas
-
-### 📧 **Email de Suporte**
-✉️ **suportephyhome@gmail.com**
 
 ---
 
@@ -95,18 +61,6 @@ Acompanhe nosso [canal no YouTube](https://www.youtube.com/@phyhomebrasil1545) p
 - 📚 Novos manuais
 - 🎥 Novos vídeos tutoriais
 - 📢 Anúncios importantes
-
----
-
-## 💡 **Navegação Rápida**
-
-| Preciso de... | Acesse aqui |
-|---------------|-------------|
-| 🔧 **Firmware do meu produto** | [Releases](https://github.com/jlui70/phyhomebrasil/releases) |
-| 📖 **Manual de instalação** | [Manuais](https://github.com/jlui70/phyhomebrasil/tree/main/manuais) |
-| ❓ **Dúvida específica** | [FAQs](https://github.com/jlui70/phyhomebrasil/tree/main/faqs) |
-| 🎥 **Vídeo tutorial** | [YouTube](https://www.youtube.com/@phyhomebrasil1545) |
-| 🌐 **Site principal** | [jlui70.github.io/phyhomebrasil](https://jlui70.github.io/phyhomebrasil) |
 
 ---
 
