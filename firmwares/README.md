@@ -20,8 +20,8 @@
 |---------|------|-----------|-----------------|
 | **FHL104C** | OLT EPON | 4 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl104c-v1.0) |
 | **FHL1100** | OLT EPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl1100-v3.0.5.0) |
-| **FHL208B** | OLT GPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl208b-vP009SP3) |
-| **FHL2100** | OLT GPON | 16 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl2100-v3.3.6-complete) |
+| **FHL208B** | OLT GPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl208B-vP009SP3) |
+| **FHL2100** | OLT GPON | 16 Portas | [📥 Download (3 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl2100-complete) |
 | **P20 MTK** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/p20-mtk-v6.4.1T1) |
 | **P20 ZTE** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/p20-zte-v6.6.2B1) |
 
@@ -52,10 +52,13 @@
 - **Formato**: ZIP compactado
 
 #### **FHL2100** - OLT GPON 16 Portas
-- **Firmware atual**: Versão 3.3.6
+- **Firmwares disponíveis**: 3 versões para compatibilidade
+  - 📦 **v3.2.4.0** - Para testes de compatibilidade
+  - 📦 **v3.2.7** - Versão intermediária  
+  - 📦 **v3.3.6** - Versão mais recente (recomendada)
 - **Compatibilidade**: Todas as revisões FHL2100  
-- **Tamanho**: ~28MB
-- **Formato**: ZIP compactado
+- **Tamanho total**: ~80MB (3 firmwares)
+- **Formato**: 3 arquivos ZIP separados
 
 ### 📡 **ONUs**
 
