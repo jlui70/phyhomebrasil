@@ -86,54 +86,10 @@
 2. ✅ Anote configurações de VLAN/ONUs
 3. ✅ Salve lista de usuários cadastrados
 
-### 🔌 **Procedimento de Atualização**
-1. ✅ Baixe o firmware correto para seu modelo
-2. ✅ Extraia o arquivo ZIP
-3. ✅ Acesse a interface web do equipamento
-4. ✅ Vá em "System" → "Firmware Upgrade"
-5. ✅ Selecione o arquivo e clique "Upgrade"
-6. ✅ **NÃO desligue** durante a atualização
-
 ### ⚡ **Dicas de Segurança**
 - 🔴 **NUNCA** desligue o equipamento durante a atualização
-- 🔴 **SEMPRE** use fonte estabilizada
 - 🔴 **VERIFIQUE** o modelo antes de atualizar
 - 🔴 **TESTE** em horário de baixo tráfego
-
----
-
-## 📊 **Versões Disponíveis**
-
-Para ver **TODAS** as versões de firmware disponíveis:
-
-🔗 [**ACESSE TODAS AS RELEASES**](https://github.com/jlui70/phyhomebrasil/releases)
-
-Cada release contém:
-- 📦 **Arquivo do firmware**
-- 📝 **Changelog** (novidades/correções)
-- 📅 **Data de lançamento**
-- 🔢 **Número da versão**
-- 📐 **Tamanho do arquivo**
-
----
-
-## 🆘 **Problemas com Download?**
-
-### 🔧 **Soluções Comuns:**
-
-1. **Link não funciona?**
-   - Tente outro navegador
-   - Desative bloqueadores de popup
-   - Verifique sua conexão
-
-2. **Arquivo corrompido?**
-   - Baixe novamente
-   - Verifique o tamanho do arquivo
-   - Use outro dispositivo
-
-3. **Não encontra seu produto?**
-   - Verifique o modelo exato no equipamento
-   - Consulte nossa [página de produtos](https://github.com/jlui70/phyhomebrasil)
 
 ---
 
@@ -149,10 +105,7 @@ Vídeos disponíveis:
 
 ---
 
-## 📞 **Suporte**
-
 - 📺 **Vídeos**: [YouTube Phyhome Brasil](https://www.youtube.com/@phyhomebrasil1545)
-- 📧 **Email**: suportephyhome@gmail.com
 - 📚 **Manuais**: [Repositório de Manuais](https://github.com/jlui70/phyhomebrasil)
 - ❓ **FAQs**: [Base de Conhecimento](https://github.com/jlui70/phyhomebrasil)
 
