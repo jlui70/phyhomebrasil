@@ -29,16 +29,16 @@
 #### 📂 **FHL208B - OLT GPON 8 Portas**
 | Tópico | Link FAQ |
 |--------|----------|
-| 🔄 Atualização Firmware via FTP | [📖 Ver solução](https://telegra.ph/Reset-de-Fabrica-OLT-GPON-FHL208B-03-03) |
-| 🌐 Configuração GPON | [📖 Ver solução](https://telegra.ph/IPOE---DHCP-RELAY--OPTION-82-NA-FHL208B-06-01) |
-| 📡 Gerenciamento ONUs | [📖 Ver solução](https://telegra.ph/Configurar-SNMP-e-OLT-Gpon-FHL208B-03-24) |
-| 🛠️ Diagnóstico de Problemas | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL208B-01-10) |
+| 🔄 Reset de Fabrica OLT GPON FHL208B | [📖 Ver solução](https://telegra.ph/Reset-de-Fabrica-OLT-GPON-FHL208B-03-03) |
+| 🌐 Habilitar SSH OLT  FHL208B | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL208B-01-10) |
+| 📡 IPOE - DHCP RELAY – OPTION 82 NA FHL208B | [📖 Ver solução](https://telegra.ph/IPOE---DHCP-RELAY--OPTION-82-NA-FHL208B-06-01) |
+| 🛠️ Configurar SNMP e OLT Gpon FHL208B | [📖 Ver solução](https://telegra.ph/Configurar-SNMP-e-OLT-Gpon-FHL208B-03-24) |
 
-#### 📂 **FHL2100 - OLT GPON 16 Portas**
+#### 📂 **FHL2100 - OLT GPON 8 & 16 Portas**
 | Tópico | Link FAQ |
 |--------|----------|
-| 🌐 Configuração VLAN Tags | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---08-01-10) |
-| 🤖 Automação Phyhome | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---16-01-10) |
+| 🌐 Habilitar SSH OLT FHL2100 - 08 | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---08-01-10) |
+| 🤖 Habilitar SSH OLT FHL2100 - 16 | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---16-01-10) |
 | 📊 Dashboard Avançado | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
 | 🔧 Configuração Avançada | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
 
