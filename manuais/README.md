@@ -49,7 +49,6 @@
 - 📖 Manual CLI completo
 - 📖 Manual da interface web
 - 📖 Comandos adicionais
-- 📖 Automação Phyhome
 - 📖 Configuração SSH e SNMP
 - 📖 Procedimentos de manutenção
 - 📖 Reset de configurações
