@@ -12,54 +12,81 @@
 | Tópico | Link FAQ |
 |--------|----------|
 | 🔧 Excluir ONU Offline | [📖 Ver solução](https://telegra.ph/Excluir-ONU-Offline-na-OLT-FHL104C-EPON-03-09) |
-| 🌐 Configuração VLAN | [📖 Ver solução](https://telegra.ph/Configuracao-VLAN-FHL104C-03-10) |
-| 🛠️ Troubleshooting Conexão ONUs | [📖 Ver solução](https://telegra.ph/Troubleshooting-Conexao-ONUs-FHL104C-03-11) |
-| ⚙️ Configuração Inicial | [📖 Ver solução](https://telegra.ph/Configuracao-Inicial-FHL104C-03-12) |
-| 🔄 Reset de Fábrica | [📖 Ver solução](https://telegra.ph/Reset-Fabrica-FHL104C-03-13) |
+| 🌐 Configuração VLAN | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-C16-na-OLT-FHL104C-EPON-07-11) |
+| 🛠️ Troubleshooting Conexão ONUs | [📖 Ver solução](https://telegra.ph/FAQ-OLT-EPON-PHYHOME-08-05) |
+| ⚙️ Configuração Inicial | [📖 Ver solução](https://telegra.ph/Utilizar-as-portas-uplink-SFP-na-OLT-EPON-08-10) |
+| 🔄 Reset de Fábrica | [📖 Ver solução](https://telegra.ph/Resetar-todas-as-Configura%C3%A7%C3%B5es-via-Linha-de-comando-11-23) |
 
 #### 📂 **FHL1100 - OLT EPON 8 Portas**
 | Tópico | Link FAQ |
 |--------|----------|
-| ⚙️ Configuração Inicial | [📖 Ver solução](https://telegra.ph/Configuracao-Inicial-FHL1100-03-14) |
-| 💾 Backup e Restore | [📖 Ver solução](https://telegra.ph/Backup-Restore-FHL1100-03-15) |
-| 🌐 Setup de VLANs | [📖 Ver solução](https://telegra.ph/Setup-VLANs-FHL1100-03-16) |
-| 📊 Monitoramento | [📖 Ver solução](https://telegra.ph/Monitoramento-FHL1100-03-17) |
+| ⚙️ Configuração Inicial | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
+| 💾 Backup e Restore | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
+| 🌐 Setup de VLANs | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
+| 📊 Monitoramento | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
 
 ### 🔌 **OLTs GPON**
 
 #### 📂 **FHL208B - OLT GPON 8 Portas**
 | Tópico | Link FAQ |
 |--------|----------|
-| 🔄 Atualização Firmware via FTP | [📖 Ver solução](https://telegra.ph/Atualizacao-Firmware-FHL208B-FTP-03-18) |
-| 🌐 Configuração GPON | [📖 Ver solução](https://telegra.ph/Configuracao-GPON-FHL208B-03-19) |
-| 📡 Gerenciamento ONUs | [📖 Ver solução](https://telegra.ph/Gerenciamento-ONUs-FHL208B-03-20) |
-| 🛠️ Diagnóstico de Problemas | [📖 Ver solução](https://telegra.ph/Diagnostico-Problemas-FHL208B-03-21) |
+| 🔄 Atualização Firmware via FTP | [📖 Ver solução](https://telegra.ph/Reset-de-Fabrica-OLT-GPON-FHL208B-03-03) |
+| 🌐 Configuração GPON | [📖 Ver solução](https://telegra.ph/IPOE---DHCP-RELAY--OPTION-82-NA-FHL208B-06-01) |
+| 📡 Gerenciamento ONUs | [📖 Ver solução](https://telegra.ph/Configurar-SNMP-e-OLT-Gpon-FHL208B-03-24) |
+| 🛠️ Diagnóstico de Problemas | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL208B-01-10) |
 
 #### 📂 **FHL2100 - OLT GPON 16 Portas**
 | Tópico | Link FAQ |
 |--------|----------|
-| 🌐 Configuração VLAN Tags | [📖 Ver solução](https://telegra.ph/Configuracao-VLAN-Tags-FHL2100-03-22) |
-| 🤖 Automação Phyhome | [📖 Ver solução](https://telegra.ph/Automacao-Phyhome-FHL2100-03-23) |
-| 📊 Dashboard Avançado | [📖 Ver solução](https://telegra.ph/Dashboard-Avancado-FHL2100-03-24) |
-| 🔧 Configuração Avançada | [📖 Ver solução](https://telegra.ph/Configuracao-Avancada-FHL2100-03-25) |
+| 🌐 Configuração VLAN Tags | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---08-01-10) |
+| 🤖 Automação Phyhome | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---16-01-10) |
+| 📊 Dashboard Avançado | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
+| 🔧 Configuração Avançada | [📖 Em breve](https://telegra.ph/FAQ-em-Preparacao-Phyhome-Brasil-10-31) |
 
 ### 📡 **ONUs**
+
+#### 📂 **FHR2100GK - ONU XPON**
+| Tópico | Link FAQ |
+|--------|----------|
+| 🔄 Atualização de Firmware | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-ONU-XPON-FHR2100GK-01-20) |
+| 🔧 Editar PON Serial Number | [📖 Ver solução](https://telegra.ph/Editar-o-Pon-Serial-Number-da-FHR2100GK-01-20) |
+| 🌐 Acesso Remoto (Router) | [📖 Ver solução](https://telegra.ph/Acesso-Remoto-ONU-XPON-FHR2100GK-Modo-Router-10-07) |
+| 🔧 Configuração SFU Bridge | [📖 Ver solução](https://telegra.ph/ONU-Type-SFU-bridge-na-XPON-FHR2100GK-09-30) |
+| 📦 Firmware Atualizado | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-ONU-XPON-FHR2100GK-10-27) |
 
 #### 📂 **P20 MTK - ONU Wireless AC**
 | Tópico | Link FAQ |
 |--------|----------|
-| 📶 Configuração WiFi | [📖 Ver solução](https://telegra.ph/Configuracao-WiFi-P20-MTK-03-26) |
-| 🔄 Reset Factory | [📖 Ver solução](https://telegra.ph/Reset-Factory-P20-MTK-03-27) |
-| 🌐 Configuração Bridge/Router | [📖 Ver solução](https://telegra.ph/Configuracao-Bridge-Router-P20-MTK-03-28) |
-| 🛠️ Troubleshooting WiFi | [📖 Ver solução](https://telegra.ph/Troubleshooting-WiFi-P20-MTK-03-29) |
+| 📶 Configuração WiFi | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-P20-AC1200-ONT-xPON-08-29) |
+| 🔄 Reset Factory | [📖 Ver solução](https://telegra.ph/Preset-Parcial-Passo-a-Passo-Xpon-Ont-P20-07-08) |
+| 🌐 Configuração Bridge/Router | [📖 Ver solução](https://telegra.ph/P20-modo-XPON-Default-02-13) |
+| 🛠️ Troubleshooting WiFi | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-modo-Tftp-P20-AC1200-Wireless-xPON-ONT-05-14) |
 
 #### 📂 **P20 ZTE - ONU Wireless AC**
 | Tópico | Link FAQ |
 |--------|----------|
-| ⚙️ Configuração Avançada | [📖 Ver solução](https://telegra.ph/Configuracao-Avancada-P20-ZTE-03-30) |
-| 🛠️ Troubleshooting | [📖 Ver solução](https://telegra.ph/Troubleshooting-P20-ZTE-03-31) |
-| 🔐 Configuração de Segurança | [📖 Ver solução](https://telegra.ph/Configuracao-Seguranca-P20-ZTE-04-01) |
-| 📶 Otimização WiFi | [📖 Ver solução](https://telegra.ph/Otimizacao-WiFi-P20-ZTE-04-02) |
+| ⚙️ Configuração Avançada | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-ONT-P20-ZTE-AC1200-01-25) |
+| 🛠️ Troubleshooting | [📖 Ver solução](https://telegra.ph/Gerenciamento-de-configura%C3%A7%C3%A3o-do-usu%C3%A1rio-backu-up-P20-AC1200-Pro-01-26) |
+| 🔐 Configuração de Segurança | [📖 Ver solução](https://telegra.ph/Acesso-Remoto-P20-AC1200-ONT-PRO-10-28) |
+| 📶 Otimização WiFi | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-Portas-na-P20-AC1200-Wireless-GPON-ONT-Pro-Z-08-24-2) |
+
+---
+
+## 📚 **Biblioteca Completa de FAQs**
+
+### 🔧 **P20 MTK - Links Adicionais**
+- [📖 Atualização UNM Fiberhome](https://telegra.ph/Atualiza%C3%A7%C3%A3o-na-P20-AC1200-Wireless-xPON-ONT-para-obter-informa%C3%A7%C3%B5es-no-UNM-Fiberhome-07-08)
+- [📖 Atualização PON Serial](https://telegra.ph/Atualiza%C3%A7%C3%A3o-do-Pon-Serial-Number-da-Ont-P20-AC1200-xPON-06-29)
+- [📖 Redirecionamento de Portas](https://telegra.ph/Redirecionamento-de-portas-na-xPON-Ont-P20-AC1200-06-03)
+- [📖 Alteração OMCI](https://telegra.ph/Altera%C3%A7%C3%A3o-modo-OMCI-para-OLT-de-outros-fabricantes-na-ONT-P20-AC1200-WIRELESS-XPON-07-09)
+- [📖 Configuração VOIP](https://telegra.ph/VOIP-na-AC1200-WIRELESS-XPON-ONT-P20-07-30)
+- [📖 Preset Parcial MTK](https://telegra.ph/Preset-Parcial-Passo-a-Passo-xPon-Ont-P20-AC1200-MTK-11-14)
+
+### 🔧 **P20 ZTE - Links Adicionais**
+- [📖 Firmware Atualizado](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-ONT-P20-ZTE-AC1200-11-01)
+- [📖 Configuração OMCI](https://telegra.ph/AC1200-Wireless-P20-ONT-PRO-CONFIGURA%C3%87%C3%83O-OMCI-08-11)
+- [📖 Configuração OLT VSOL](https://telegra.ph/Configura%C3%A7%C3%A3o-OLT-VSOL-Funcionando-com-a-AC1200-Wireless-P20-ONT-PRO-06-02)
+- [📖 Primeira Configuração WAN](https://telegra.ph/Acessar-a-AC1200-Wireless-P20-ONT-PRO-como-administrador-e-fazer-a-primeira-configura%C3%A7%C3%A3o-WAN-12-29)
 
 ---
 
