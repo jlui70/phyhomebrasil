@@ -58,7 +58,7 @@
 |--------|----------|
 | 📶 Atualização de Firmware P20 AC1200 ONT xPON | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-de-Firmware-P20-AC1200-ONT-xPON-08-29) |
 | 🔄 Atualização modo Tftp Wireless xPON ONT | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-modo-Tftp-P20-AC1200-Wireless-xPON-ONT-05-14) |
-| 🌐 Atualização Wireless xPON ONT UNM (Fiberhome) | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-na-P20-AC1200-Wireless-xPON-ONT-para-obter-informa%C3%A7%C3%B5es-no-UNM-Fiberhome-07-08)) |
+| 🌐 Atualização Wireless xPON ONT UNM (Fiberhome) | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-na-P20-AC1200-Wireless-xPON-ONT-para-obter-informa%C3%A7%C3%B5es-no-UNM-Fiberhome-07-08) |
 | 🛠️ Preset Parcial Passo a Passo na P20 AC1200 Wireless xPON ONT | [📖 Ver solução](https://telegra.ph/Preset-Parcial-Passo-a-Passo-Xpon-Ont-P20-07-08) |
 | 🛠️ Atualização do Pon Serial Number da Ont P20 AC1200 xPON | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-do-Pon-Serial-Number-da-Ont-P20-AC1200-xPON-06-29) |
 | 🛠️ Redirecionamento de portas na xPON Ont P20 AC1200 | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-portas-na-xPON-Ont-P20-AC1200-06-03) |
