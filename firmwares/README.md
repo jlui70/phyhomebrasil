@@ -23,7 +23,7 @@
 | **FHL208B** | OLT GPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl208b-vP009SP3) |
 | **FHL2100** | OLT GPON | 16 Portas | [📥 Download (3 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl2100-complete) |
 | **P20 MTK** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/p20-mtk-v6.4.1T1) |
-| **P20 ZTE** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/p20-zte-v6.6.2B1) |
+| **P20 ZTE** | ONU | Wireless AC | [📥 Download (3 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/p20-zte-complete) |
 
 ---
 
@@ -37,7 +37,7 @@
 - **Tamanho**: ~15MB
 - **Formato**: ZIP compactado
 
-#### **FHL1100** - OLT EPON 8 Portas  
+#### **FHL1100** - OLT EPON 4 Portas  
 - **Firmware atual**: Versão 3.0.5.0
 - **Compatibilidade**: Todas as revisões FHL1100
 - **Tamanho**: ~18MB
@@ -51,8 +51,8 @@
 - **Tamanho**: ~22MB
 - **Formato**: ZIP compactado
 
-#### **FHL2100** - OLT GPON 16 Portas
-- **Firmwares disponíveis**: 3 versões para compatibilidade
+#### **FHL2100** - OLT GPON 8 e 16 Portas (Utilizam mesmo firmware)
+- **Firmwares disponíveis**: 3 últimas versões para compatibilidade
   - 📦 **v3.2.4.0** - Para testes de compatibilidade
   - 📦 **v3.2.7** - Versão intermediária  
   - 📦 **v3.3.6** - Versão mais recente (recomendada)
@@ -69,10 +69,13 @@
 - **Formato**: ZIP compactado
 
 #### **P20 ZTE** - ONU Wireless AC
-- **Firmware atual**: Versão 6.6.2B1
+- **Firmwares disponíveis**: 3 versões para compatibilidade
+  - 📦 **v6.5.3B04** - Mantém somente WAN e troca de senha
+  - 📦 **v6.6.0B2** - Desabilita botão reset
+  - 📦 **v6.6.2B1** - Versão mais recente (recomendada)
 - **Características**: Mantém somente WAN e troca de senha de acesso
-- **Tamanho**: ~12MB
-- **Formato**: ZIP compactado
+- **Tamanho total**: ~36MB (3 firmwares)
+- **Formato**: 3 arquivos ZIP separados
 
 ---
 
