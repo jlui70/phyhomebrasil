@@ -1,175 +1,133 @@
-# 🔧 Firmwares Phyhome Brasil
+# 🏢 Phyhome Brasil
 
-**Downloads oficiais de firmwares para equipamentos Phyhome**
-
----
-
-## 📥 **Como Baixar Firmwares**
-
-### 🎯 **Método Mais Rápido:**
-1. 🔗 **Acesse**: [**RELEASES**](https://github.com/jlui70/phyhomebrasil/releases) ← **CLIQUE AQUI**
-2. 📱 **Encontre seu produto** na lista
-3. 📦 **Clique no arquivo .zip** do firmware
-4. ⬇️ **Download automático**
+**Fabricante de Equipamentos para Telecomunicações**
 
 ---
 
-## 🏭 **Produtos Disponíveis**
+## 📋 Sobre a Phyhome Brasil
 
-| Produto | Tipo | Descrição | Último Firmware |
-|---------|------|-----------|-----------------|
-| **FHL104C** | OLT EPON | 4 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
-| **FHL1100** | OLT EPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
-| **FHL208B** | OLT GPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
-| **FHL2100** | OLT GPON | 16 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
-| **P20 MTK** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
-| **P20 ZTE** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
+A **Phyhome Brasil** é especializada no desenvolvimento e fabricação de equipamentos de telecomunicações para redes FTTH (Fiber to the Home), oferecendo soluções completas em OLTs e ONUs para provedores de internet.
+
+### 🎯 **Nossa Missão**
+Fornecer equipamentos de alta qualidade e suporte técnico especializado para o crescimento das redes de fibra óptica no Brasil.
 
 ---
 
-## 📋 **Instruções por Produto**
+## 📦 **Repositórios Disponíveis**
+
+### 🔧 [**Firmwares**](https://github.com/phyhomebr/firmwares)
+- Downloads diretos de firmwares oficiais
+- Versões organizadas por produto
+- Changelogs detalhados
+- **Acesso direto**: [Releases](https://github.com/phyhomebr/firmwares/releases)
+
+### 📚 [**Manuais**](https://github.com/phyhomebr/manuais)
+- Manuais técnicos em PDF
+- Guias de instalação e configuração
+- Documentação por produto
+- Tutoriais passo a passo
+
+### ❓ [**FAQs**](https://github.com/phyhomebr/faqs)
+- Links para perguntas frequentes
+- Dicas de configuração
+- Soluções organizadas por produto
+- Guias de troubleshooting
+
+### 🌐 [**Site Oficial**](https://phyhomebr.github.io)
+- Portal principal de downloads
+- Navegação por produto
+- Interface amigável
+- Acesso rápido a todos os recursos
+
+---
+
+## 🏭 **Produtos Phyhome**
 
 ### 🔌 **OLTs EPON**
+- **FHL104C** - OLT EPON 4 Portas
+- **FHL1100** - OLT EPON 8 Portas
 
-#### **FHL104C** - OLT EPON 4 Portas
-- **Firmware atual**: Versão C16
-- **Compatibilidade**: Todas as revisões FHL104C
-- **Tamanho**: ~15MB
-- **Formato**: ZIP compactado
-
-#### **FHL1100** - OLT EPON 8 Portas  
-- **Firmware atual**: Versão 3.0.5.0
-- **Compatibilidade**: Todas as revisões FHL1100
-- **Tamanho**: ~18MB
-- **Formato**: ZIP compactado
-
-### 🔌 **OLTs GPON**
-
-#### **FHL208B** - OLT GPON 8 Portas
-- **Firmware atual**: Versão mais recente
-- **Compatibilidade**: Todas as revisões FHL208B
-- **Tamanho**: ~22MB
-- **Formato**: ZIP compactado
-
-#### **FHL2100** - OLT GPON 16 Portas
-- **Firmware atual**: Versão 3.3.6
-- **Compatibilidade**: Todas as revisões FHL2100  
-- **Tamanho**: ~28MB
-- **Formato**: ZIP compactado
+### 🔌 **OLTs GPON**  
+- **FHL208B** - OLT GPON 8 Portas
+- **FHL2100** - OLT GPON 16 Portas
 
 ### 📡 **ONUs**
-
-#### **P20 MTK** - ONU Wireless AC
-- **Firmware atual**: Versão 6.4.1T1
-- **Características**: Preserva WAN, firewall e acesso remoto após reset
-- **Tamanho**: ~12MB
-- **Formato**: ZIP compactado
-
-#### **P20 ZTE** - ONU Wireless AC
-- **Firmware atual**: Versão 6.6.2B1
-- **Características**: Mantém somente WAN e troca de senha de acesso
-- **Tamanho**: ~12MB
-- **Formato**: ZIP compactado
+- **P20 MTK** - ONU Wireless AC
+- **P20 ZTE** - ONU Wireless AC
 
 ---
 
-## ⚠️ **Importante - Antes de Atualizar**
+## 📥 **Como Fazer Downloads**
 
-### 📝 **Backup da Configuração**
-1. ✅ Faça backup das configurações atuais
-2. ✅ Anote configurações de VLAN/ONUs
-3. ✅ Salve lista de usuários cadastrados
+### **Firmwares:**
+1. Acesse: [Releases de Firmwares](https://github.com/phyhomebr/firmwares/releases)
+2. Escolha seu produto
+3. Clique no arquivo `.zip`
+4. Download automático
 
-### 🔌 **Procedimento de Atualização**
-1. ✅ Baixe o firmware correto para seu modelo
-2. ✅ Extraia o arquivo ZIP
-3. ✅ Acesse a interface web do equipamento
-4. ✅ Vá em "System" → "Firmware Upgrade"
-5. ✅ Selecione o arquivo e clique "Upgrade"
-6. ✅ **NÃO desligue** durante a atualização
+### **Manuais:**
+1. Acesse: [Repositório de Manuais](https://github.com/phyhomebr/manuais)
+2. Entre na pasta do seu produto
+3. Clique no manual desejado
+4. Baixe o PDF
 
-### ⚡ **Dicas de Segurança**
-- 🔴 **NUNCA** desligue o equipamento durante a atualização
-- 🔴 **SEMPRE** use fonte estabilizada
-- 🔴 **VERIFIQUE** o modelo antes de atualizar
-- 🔴 **TESTE** em horário de baixo tráfego
-
----
-
-## 📊 **Versões Disponíveis**
-
-Para ver **TODAS** as versões de firmware disponíveis:
-
-🔗 [**ACESSE TODAS AS RELEASES**](https://github.com/jlui70/phyhomebrasil/releases)
-
-Cada release contém:
-- 📦 **Arquivo do firmware**
-- 📝 **Changelog** (novidades/correções)
-- 📅 **Data de lançamento**
-- 🔢 **Número da versão**
-- 📐 **Tamanho do arquivo**
+### **FAQs:**
+1. Acesse: [FAQs por Produto](https://github.com/phyhomebr/faqs)
+2. Escolha seu produto
+3. Clique nos links das dúvidas
+4. Acesse o conteúdo online
 
 ---
 
-## 🆘 **Problemas com Download?**
+## 📞 **Contato e Suporte**
 
-### 🔧 **Soluções Comuns:**
+### 📺 **Canal Oficial**
+🎥 **YouTube**: [Phyhome Brasil](https://www.youtube.com/@phyhomebrasil1545)
+- Vídeos dos produtos
+- Tutoriais de instalação
+- Demonstrações técnicas
 
-1. **Link não funciona?**
-   - Tente outro navegador
-   - Desative bloqueadores de popup
-   - Verifique sua conexão
-
-2. **Arquivo corrompido?**
-   - Baixe novamente
-   - Verifique o tamanho do arquivo
-   - Use outro dispositivo
-
-3. **Não encontra seu produto?**
-   - Verifique o modelo exato no equipamento
-   - Consulte nossa [página de produtos](https://github.com/jlui70/phyhomebrasil)
+### 📧 **Email de Suporte**
+✉️ **suportephyhome@gmail.com**
 
 ---
 
-## 📺 **Tutoriais em Vídeo**
+## 📊 **Estatísticas**
 
-🎥 **Canal Oficial**: [Phyhome Brasil](https://www.youtube.com/@phyhomebrasil1545)
-
-Vídeos disponíveis:
-- 🔧 Como atualizar firmware
-- ⚙️ Configuração pós-atualização
-- 🛠️ Troubleshooting de problemas
-- 📱 Demonstrações de produtos
+![GitHub Org Stars](https://img.shields.io/github/stars/phyhomebr?style=social)
+![Total Downloads](https://img.shields.io/github/downloads/phyhomebr/firmwares/total)
+![Repositórios](https://img.shields.io/badge/Repositórios-4-blue)
 
 ---
 
-## 📞 **Suporte**
+## 🔄 **Atualizações**
 
-- 📺 **Vídeos**: [YouTube Phyhome Brasil](https://www.youtube.com/@phyhomebrasil1545)
-- 📧 **Email**: suportephyhome@gmail.com
-- 📚 **Manuais**: [Repositório de Manuais](https://github.com/jlui70/phyhomebrasil)
-- ❓ **FAQs**: [Base de Conhecimento](https://github.com/jlui70/phyhomebrasil)
+**Última atualização**: 31 de Outubro de 2025
+
+Acompanhe nosso [canal no YouTube](https://www.youtube.com/@phyhomebrasil1545) para ser notificado sobre:
+- 🆕 Novos firmwares
+- 📚 Novos manuais
+- 🎥 Novos vídeos tutoriais
+- 📢 Anúncios importantes
+
+---
+
+## 💡 **Navegação Rápida**
+
+| Preciso de... | Acesse aqui |
+|---------------|-------------|
+| 🔧 **Firmware do meu produto** | [Releases](https://github.com/phyhomebr/firmwares/releases) |
+| 📖 **Manual de instalação** | [Manuais](https://github.com/phyhomebr/manuais) |
+| ❓ **Dúvida específica** | [FAQs](https://github.com/phyhomebr/faqs) |
+| 🎥 **Vídeo tutorial** | [YouTube](https://www.youtube.com/@phyhomebrasil1545) |
+| 🌐 **Site principal** | [phyhomebr.github.io](https://phyhomebr.github.io) |
 
 ---
 
 <div align="center">
 
-## 🚀 **ACESSO RÁPIDO AOS DOWNLOADS**
+**🏭 Phyhome Brasil - Conectando o futuro das telecomunicações**
 
-### [📥 **CLIQUE AQUI PARA BAIXAR FIRMWARES**](https://github.com/jlui70/phyhomebrasil/releases)
-
-*Todos os firmwares oficiais Phyhome Brasil*
+*Repositório oficial para downloads de firmwares, manuais e documentação técnica*
 
 </div>
-
----
-
-**📊 Estatísticas de Download**
-
-![Downloads](https://img.shields.io/github/downloads/jlui70/phyhomebrasil/total?style=for-the-badge&logo=github&color=success)
-![Última Release](https://img.shields.io/github/v/release/jlui70/phyhomebrasil?style=for-the-badge&logo=github)
-![Tamanho do Repo](https://img.shields.io/github/repo-size/jlui70/phyhomebrasil?style=for-the-badge&logo=github)
-
----
-
-*🔄 Última atualização: 31 de Outubro de 2025*
