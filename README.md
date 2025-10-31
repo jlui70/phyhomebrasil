@@ -1,16 +1,5 @@
 # 🏢 Phyhome Brasil
 
-**Fabricante de Equipamentos para Telecomunicações**
-
----
-
-## 📋 Sobre a Phyhome Brasil
-
-A **Phyhome Brasil** é especializada no desenvolvimento e fabricação de equipamentos de telecomunicações para redes FTTH (Fiber to the Home), oferecendo soluções completas em OLTs e ONUs para provedores de internet.
-
-### 🎯 **Nossa Missão**
-Fornecer equipamentos de alta qualidade e suporte técnico especializado para o crescimento das redes de fibra óptica no Brasil.
-
 ---
 
 ## 📦 **Repositórios Disponíveis**
@@ -44,16 +33,17 @@ Fornecer equipamentos de alta qualidade e suporte técnico especializado para o 
 ## 🏭 **Produtos Phyhome**
 
 ### 🔌 **OLTs EPON**
-- **FHL104C** - OLT EPON 4 Portas
-- **FHL1100** - OLT EPON 8 Portas
+- **FHL104C** - OLT EPON MODELO ANTIGO 4 Portas
+- **FHL1100** - OLT EPON MODELO NOVO 4 Portas
 
 ### 🔌 **OLTs GPON**  
-- **FHL208B** - OLT GPON 8 Portas
-- **FHL2100** - OLT GPON 16 Portas
+- **FHL208B** - OLT GPON MODELO ANTIGO 8 Portas
+- **FHL2100** - OLT GPON MODELO NOVO 8 & 16 Portas
 
 ### 📡 **ONUs**
-- **P20 MTK** - ONU Wireless AC
-- **P20 ZTE** - ONU Wireless AC
+- **FHR2100GZ** - ONU ROUTER / BRIDGE
+- **P20 MTK** - ONT Wireless AC CHIPSET MEDIATEK
+- **P20 ZTE** - ONT Wireless AC CHIPSET ZTE
 
 ---
 
@@ -99,10 +89,6 @@ Fornecer equipamentos de alta qualidade e suporte técnico especializado para o 
 ![Repositórios](https://img.shields.io/badge/Repositórios-1-blue)
 
 ---
-
-## 🔄 **Atualizações**
-
-**Última atualização**: 31 de Outubro de 2025
 
 Acompanhe nosso [canal no YouTube](https://www.youtube.com/@phyhomebrasil1545) para ser notificado sobre:
 - 🆕 Novos firmwares
