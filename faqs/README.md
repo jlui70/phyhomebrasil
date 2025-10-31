@@ -12,10 +12,9 @@
 | Tópico | Link FAQ |
 |--------|----------|
 | 🔧 Excluir ONU Offline | [📖 Ver solução](https://telegra.ph/Excluir-ONU-Offline-na-OLT-FHL104C-EPON-03-09) |
-| 🌐 Configuração VLAN | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-C16-na-OLT-FHL104C-EPON-07-11) |
-| 🛠️ Troubleshooting Conexão ONUs | [📖 Ver solução](https://telegra.ph/FAQ-OLT-EPON-PHYHOME-08-05) |
-| ⚙️ Configuração Inicial | [📖 Ver solução](https://telegra.ph/Utilizar-as-portas-uplink-SFP-na-OLT-EPON-08-10) |
-| 🔄 Reset de Fábrica | [📖 Ver solução](https://telegra.ph/Resetar-todas-as-Configura%C3%A7%C3%B5es-via-Linha-de-comando-11-23) |
+| 🔄 Resetar todas as Configurações via Linha de comando | [📖 Ver solução](https://telegra.ph/Resetar-todas-as-Configura%C3%A7%C3%B5es-via-Linha-de-comando-11-23) |
+| 🛠️ Utilizar as portas uplink SFP na OLT EPON | [📖 Ver solução](https://telegra.ph/Utilizar-as-portas-uplink-SFP-na-OLT-EPON-08-10) |
+| ⚙️ Atualização C16 na OLT FHL104C EPON | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-C16-na-OLT-FHL104C-EPON-07-11) |
 
 #### 📂 **FHL1100 - OLT EPON 8 Portas**
 | Tópico | Link FAQ |
