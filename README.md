@@ -19,7 +19,7 @@ Fornecer equipamentos de alta qualidade e suporte técnico especializado para o 
 - Downloads diretos de firmwares oficiais
 - Versões organizadas por produto
 - Changelogs detalhados
-- **Acesso direto**: [Releases](https://github.com/phyhomebr/firmwares/releases)
+- **Acesso direto**: [Releases](https://github.com/phyhomebrasil/firmwares/releases)
 
 ### 📚 [**Manuais**](https://github.com/phyhomebr/manuais)
 - Manuais técnicos em PDF
