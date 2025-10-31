@@ -4,88 +4,86 @@
 
 ---
 
-## 📥 **Downloads por Produto**
+## 📥 **Como Baixar Manuais**
+
+### 🎯 **Método Mais Rápido:**
+1. � **Acesse**: [**RELEASES DE MANUAIS**](https://github.com/jlui70/phyhomebrasil/releases) ← **CLIQUE AQUI**
+2. � **Encontre seu produto** na lista
+3. � **Clique no arquivo .pdf** do manual
+4. ⬇️ **Download automático**
+
+---
+
+## � **Manuais por Produto**
+
+| Produto | Tipo | Descrição | Manual Técnico |
+|---------|------|-----------|----------------|
+| **FHL104C** | OLT EPON | 4 Portas | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl104c) |
+| **FHL1100** | OLT EPON | 8 Portas | [📄 Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl1100) |
+| **FHL208B** | OLT GPON | 8 Portas | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl208b) |
+| **FHL2100** | OLT GPON | 16 Portas | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl2100) |
+| **P20 MTK** | ONU | Wireless AC | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-mtk) |
+| **P20 ZTE** | ONU | Wireless AC | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-zte) |
+
+---
+
+## 📋 **Manuais Detalhados por Produto**
 
 ### 🔌 **OLTs EPON**
 
-#### 📂 [**FHL104C - OLT EPON 4 Portas**](./fhl104c/)
-- 📖 Manual completo de instalação e configuração
-- 📖 Manual básico de configuração
-- 📖 Manual de atualização de firmware
-- 📖 Guia de consulta de sinal óptico
+#### 📂 **FHL104C - OLT EPON 4 Portas**
+**� Manuais disponíveis:** [📥 Baixar TODOS (5 PDFs)](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl104c)
+- � Manual técnico completo
+- 📖 Manual básico de configuração  
+- � Manual de atualização de firmware
+- � Guia de consulta de sinal óptico
 - 📖 FAQ em PDF
 
-#### 📂 [**FHL1100 - OLT EPON 8 Portas**](./fhl1100/)
-- 📖 Manual de instalação
-- 📖 Guia de configuração
-- 📖 Manual técnico completo
+#### 📂 **FHL1100 - OLT EPON 8 Portas**
+**� Manuais disponíveis:** [📥 Baixar TODOS (2 PDFs)](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl1100)
+- 📖 Manual CLI completo
+- 📖 Manual de operação web
 
 ### 🔌 **OLTs GPON**
 
-#### 📂 [**FHL208B - OLT GPON 8 Portas**](./fhl208b/)
-- 📖 Manual de instalação
-- 📖 Guia de configuração GPON
-- 📖 Manual de atualização via FTP
-- 📖 Procedimentos de upgrade
+#### � **FHL208B - OLT GPON 8 Portas**
+**📄 Manuais disponíveis:** [📥 Baixar TODOS (8 PDFs)](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl208b)
+- � Manual técnico completo
+- 📖 Configuração SNMP
+- 📖 Manual de configuração geral
+- 📖 Configuração SSH
+- 📖 LACP e recursos avançados
+- 📖 FAQ GPON
+- 📖 Product Manual oficial
+- 📖 SNMP avançado
 
-#### 📂 [**FHL2100 - OLT GPON 16 Portas**](./fhl2100/)
-- 📖 Manual completo
-- 📖 Configuração de VLANs
-- 📖 Guia de automação
-- 📖 Manual avançado
+#### 📂 **FHL2100 - OLT GPON 16 Portas**
+**📄 Manuais disponíveis:** [📥 Baixar TODOS (11 PDFs)](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl2100)
+- 📖 Manual de operações e manutenção
+- 📖 Manual CLI completo
+- 📖 Manual da interface web
+- 📖 Comandos adicionais
+- 📖 Automação Phyhome
+- 📖 Configuração SSH e SNMP
+- 📖 Procedimentos de manutenção
+- 📖 Reset de configurações
+- 📖 Multicast
+- 📖 Integração com sistemas
+- 📖 Limpeza de base de dados
 
-### 📡 **ONUs**
+### � **ONUs**
 
-#### 📂 [**P20 MTK - ONU Wireless AC**](./p20-mtk/)
+#### 📂 **P20 MTK - ONU Wireless AC**
+**📄 Manuais disponíveis:** [📥 Em breve](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-mtk)
 - 📖 Manual de instalação
 - 📖 Configuração WiFi
 - 📖 Guia de troubleshooting
 
-#### 📂 [**P20 ZTE - ONU Wireless AC**](./p20-zte/)
+#### � **P20 ZTE - ONU Wireless AC**  
+**📄 Manuais disponíveis:** [📥 Em breve](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-zte)
 - 📖 Manual de instalação
 - 📖 Configuração avançada
 - 📖 Guia de resolução de problemas
-
----
-
-## 🎯 **Como Baixar Manuais**
-
-### **Método 1: Navegação por Pastas**
-1. 📂 Clique na pasta do seu produto acima
-2. 📄 Escolha o manual desejado
-3. 📥 Clique em "Download" ou "View raw"
-4. 💾 Salve o arquivo PDF
-
-### **Método 2: Lista Completa**
-🔗 [**VER TODOS OS MANUAIS**](https://github.com/phyhomebr/manuais/find/main) ← Busca rápida
-
----
-
-## 📋 **Manuais Disponíveis por Categoria**
-
-### 🛠️ **Instalação e Setup**
-- Manual de instalação física
-- Configuração inicial
-- Primeiros passos
-- Checklist de instalação
-
-### ⚙️ **Configuração Avançada**
-- Configuração de VLANs
-- Setup de ONUs
-- Gerenciamento de usuários
-- Configurações de rede
-
-### 🔧 **Manutenção**
-- Atualização de firmware
-- Backup e restore
-- Diagnóstico de problemas
-- Monitoramento
-
-### 📊 **Troubleshooting**
-- Resolução de problemas comuns
-- Diagnóstico de conectividade
-- Análise de logs
-- Códigos de erro
 
 ---
 
