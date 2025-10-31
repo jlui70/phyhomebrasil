@@ -2,18 +2,6 @@
 
 **Documentação oficial para equipamentos Phyhome**
 
----
-
-## 📥 **Como Baixar Manuais**
-
-### 🎯 **Método Mais Rápido:**
-1. � **Acesse**: [**RELEASES DE MANUAIS**](https://github.com/jlui70/phyhomebrasil/releases) ← **CLIQUE AQUI**
-2. � **Encontre seu produto** na lista
-3. � **Clique no arquivo .pdf** do manual
-4. ⬇️ **Download automático**
-
----
-
 ## � **Manuais por Produto**
 
 | Produto | Tipo | Descrição | Manual Técnico |
@@ -22,8 +10,6 @@
 | **FHL1100** | OLT EPON | 8 Portas | [📄 Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl1100) |
 | **FHL208B** | OLT GPON | 8 Portas | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl208b) |
 | **FHL2100** | OLT GPON | 16 Portas | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-fhl2100) |
-| **P20 MTK** | ONU | Wireless AC | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-mtk) |
-| **P20 ZTE** | ONU | Wireless AC | [� Download PDF](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-zte) |
 
 ---
 
@@ -71,22 +57,6 @@
 - 📖 Integração com sistemas
 - 📖 Limpeza de base de dados
 
-### � **ONUs**
-
-#### 📂 **P20 MTK - ONU Wireless AC**
-**📄 Manuais disponíveis:** [📥 Em breve](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-mtk)
-- 📖 Manual de instalação
-- 📖 Configuração WiFi
-- 📖 Guia de troubleshooting
-
-#### � **P20 ZTE - ONU Wireless AC**  
-**📄 Manuais disponíveis:** [📥 Em breve](https://github.com/jlui70/phyhomebrasil/releases/tag/manual-p20-zte)
-- 📖 Manual de instalação
-- 📖 Configuração avançada
-- 📖 Guia de resolução de problemas
-
----
-
 ## 🎥 **Tutoriais em Vídeo**
 
 **🔗 Canal Oficial**: [Phyhome Brasil YouTube](https://www.youtube.com/@phyhomebrasil1545)
@@ -115,11 +85,6 @@ Tutoriais complementares aos manuais:
 │   └── 📄 (manuais FHL208B)
 ├── 📁 fhl2100/
 │   └── 📄 (manuais FHL2100)
-├── 📁 p20-mtk/
-│   └── 📄 (manuais P20 MTK)
-└── 📁 p20-zte/
-    └── 📄 (manuais P20 ZTE)
-```
 
 ---
 
@@ -149,44 +114,11 @@ Todos os manuais são otimizados para:
 
 ---
 
-## 🆘 **Precisa de Ajuda?**
-
-### **Não encontrou o manual?**
-- 📧 **Email**: suportephyhome@gmail.com
-- 🎥 **YouTube**: [Phyhome Brasil](https://www.youtube.com/@phyhomebrasil1545)
-- ❓ **FAQs**: [Base de Conhecimento](https://github.com/phyhomebr/faqs)
-
-### **Problemas com download?**
-1. ✅ Verifique sua conexão com a internet
-2. ✅ Tente um navegador diferente
-3. ✅ Desative bloqueadores de popup
-4. ✅ Limpe o cache do navegador
-
----
-
 ## 📊 **Estatísticas**
 
 ![Total de Manuais](https://img.shields.io/badge/Manuais-20+-blue?style=for-the-badge)
 ![Formatos](https://img.shields.io/badge/Formato-PDF-red?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge)
-
----
-
-## 🔄 **Atualizações**
-
-**📅 Última atualização**: 31 de Outubro de 2025
-
-**📢 Novidades**:
-- ✅ Manuais organizados por produto
-- ✅ Download direto habilitado
-- ✅ Busca otimizada
-- ✅ Interface mobile-friendly
-
-**🔜 Próximas melhorias**:
-- 📚 Mais manuais técnicos
-- 🎨 Manuais ilustrados
-- 🌍 Versões em inglês
-- 📱 App móvel
 
 ---
 
