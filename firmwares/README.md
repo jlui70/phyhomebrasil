@@ -111,18 +111,6 @@ Vídeos disponíveis:
 
 ---
 
-<div align="center">
-
-## 🚀 **ACESSO RÁPIDO AOS DOWNLOADS**
-
-### [📥 **CLIQUE AQUI PARA BAIXAR FIRMWARES**](https://github.com/jlui70/phyhomebrasil/releases)
-
-*Todos os firmwares oficiais Phyhome Brasil*
-
-</div>
-
----
-
 **📊 Estatísticas de Download**
 
 ![Downloads](https://img.shields.io/github/downloads/jlui70/phyhomebrasil/total?style=for-the-badge&logo=github&color=success)
@@ -130,5 +118,3 @@ Vídeos disponíveis:
 ![Tamanho do Repo](https://img.shields.io/github/repo-size/jlui70/phyhomebrasil?style=for-the-badge&logo=github)
 
 ---
-
-*🔄 Última atualização: 31 de Outubro de 2025*
