@@ -7,7 +7,7 @@
 ## 📥 **Como Baixar Firmwares**
 
 ### 🎯 **Método Mais Rápido:**
-1. 🔗 **Acesse**: [**RELEASES**](https://github.com/phyhomebr/firmwares/releases) ← **CLIQUE AQUI**
+1. 🔗 **Acesse**: [**RELEASES**](https://github.com/jlui70/phyhomebrasil/releases) ← **CLIQUE AQUI**
 2. 📱 **Encontre seu produto** na lista
 3. 📦 **Clique no arquivo .zip** do firmware
 4. ⬇️ **Download automático**
@@ -18,12 +18,12 @@
 
 | Produto | Tipo | Descrição | Último Firmware |
 |---------|------|-----------|-----------------|
-| **FHL104C** | OLT EPON | 4 Portas | [📥 Download](https://github.com/phyhomebr/firmwares/releases/latest) |
-| **FHL1100** | OLT EPON | 8 Portas | [📥 Download](https://github.com/phyhomebr/firmwares/releases/latest) |
-| **FHL208B** | OLT GPON | 8 Portas | [📥 Download](https://github.com/phyhomebr/firmwares/releases/latest) |
-| **FHL2100** | OLT GPON | 16 Portas | [📥 Download](https://github.com/phyhomebr/firmwares/releases/latest) |
-| **P20 MTK** | ONU | Wireless AC | [📥 Download](https://github.com/phyhomebr/firmwares/releases/latest) |
-| **P20 ZTE** | ONU | Wireless AC | [📥 Download](https://github.com/phyhomebr/firmwares/releases/latest) |
+| **FHL104C** | OLT EPON | 4 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
+| **FHL1100** | OLT EPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
+| **FHL208B** | OLT GPON | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
+| **FHL2100** | OLT GPON | 16 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
+| **P20 MTK** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
+| **P20 ZTE** | ONU | Wireless AC | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/latest) |
 
 ---
 
@@ -100,7 +100,7 @@
 
 Para ver **TODAS** as versões de firmware disponíveis:
 
-🔗 [**ACESSE TODAS AS RELEASES**](https://github.com/phyhomebr/firmwares/releases)
+🔗 [**ACESSE TODAS AS RELEASES**](https://github.com/jlui70/phyhomebrasil/releases)
 
 Cada release contém:
 - 📦 **Arquivo do firmware**
@@ -127,7 +127,7 @@ Cada release contém:
 
 3. **Não encontra seu produto?**
    - Verifique o modelo exato no equipamento
-   - Consulte nossa [página de produtos](https://github.com/phyhomebr)
+   - Consulte nossa [página de produtos](https://github.com/jlui70/phyhomebrasil)
 
 ---
 
@@ -147,8 +147,8 @@ Vídeos disponíveis:
 
 - 📺 **Vídeos**: [YouTube Phyhome Brasil](https://www.youtube.com/@phyhomebrasil1545)
 - 📧 **Email**: suportephyhome@gmail.com
-- 📚 **Manuais**: [Repositório de Manuais](https://github.com/phyhomebr/manuais)
-- ❓ **FAQs**: [Base de Conhecimento](https://github.com/phyhomebr/faqs)
+- 📚 **Manuais**: [Repositório de Manuais](https://github.com/jlui70/phyhomebrasil)
+- ❓ **FAQs**: [Base de Conhecimento](https://github.com/jlui70/phyhomebrasil)
 
 ---
 
@@ -156,7 +156,7 @@ Vídeos disponíveis:
 
 ## 🚀 **ACESSO RÁPIDO AOS DOWNLOADS**
 
-### [📥 **CLIQUE AQUI PARA BAIXAR FIRMWARES**](https://github.com/phyhomebr/firmwares/releases)
+### [📥 **CLIQUE AQUI PARA BAIXAR FIRMWARES**](https://github.com/jlui70/phyhomebrasil/releases)
 
 *Todos os firmwares oficiais Phyhome Brasil*
 
@@ -166,11 +166,10 @@ Vídeos disponíveis:
 
 **📊 Estatísticas de Download**
 
-![Downloads](https://img.shields.io/github/downloads/phyhomebr/firmwares/total?style=for-the-badge&logo=github&color=success)
-![Última Release](https://img.shields.io/github/v/release/phyhomebr/firmwares?style=for-the-badge&logo=github)
-![Tamanho do Repo](https://img.shields.io/github/repo-size/phyhomebr/firmwares?style=for-the-badge&logo=github)
+![Downloads](https://img.shields.io/github/downloads/jlui70/phyhomebrasil/total?style=for-the-badge&logo=github&color=success)
+![Última Release](https://img.shields.io/github/v/release/jlui70/phyhomebrasil?style=for-the-badge&logo=github)
+![Tamanho do Repo](https://img.shields.io/github/repo-size/jlui70/phyhomebrasil?style=for-the-badge&logo=github)
 
 ---
 
-*🔄 Última atualização: 31 de Outubro de 2025*# phyhomebrasil
-Repositório de Documentos Phyhome
+*🔄 Última atualização: 31 de Outubro de 2025*
