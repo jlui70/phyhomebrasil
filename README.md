@@ -56,14 +56,6 @@
 
 ---
 
-Acompanhe nosso [canal no YouTube](https://www.youtube.com/@phyhomebrasil1545) para ser notificado sobre:
-- 🆕 Novos firmwares
-- 📚 Novos manuais
-- 🎥 Novos vídeos tutoriais
-- 📢 Anúncios importantes
-
----
-
 <div align="center">
 
 **🏭 Phyhome Brasil - Conectando o futuro das telecomunicações**
