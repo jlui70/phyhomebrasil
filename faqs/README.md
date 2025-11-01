@@ -46,7 +46,6 @@
 #### 📂 **P20 MTK - ONU Wireless AC**
 | Tópico | Link FAQ |
 |--------|----------|
-| ⚙️ Preset Parcial Passo a Passo na P20 AC1200 Wireless xPON ONT | [📖 Ver solução](https://telegra.ph/Preset-Parcial-Passo-a-Passo-Xpon-Ont-P20-07-08) |
 | 🔧 Atualização do Pon Serial Number da Ont P20 AC1200 xPON | [📖 Ver solução](https://telegra.ph/Atualiza%C3%A7%C3%A3o-do-Pon-Serial-Number-da-Ont-P20-AC1200-xPON-06-29) |
 | 🛠️ Redirecionamento de portas na xPON Ont P20 AC1200 | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-portas-na-xPON-Ont-P20-AC1200-06-03) |
 | 🔄 P20 modo XPON Default | [📖 Ver solução](https://telegra.ph/P20-modo-XPON-Default-02-13) |
