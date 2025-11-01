@@ -49,7 +49,6 @@
 | 🛠️ Redirecionamento de portas na xPON Ont P20 AC1200 | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-portas-na-xPON-Ont-P20-AC1200-06-03) |
 | 📦 Alteração modo OMCI para OLT de outros fabricantes | [📖 Ver solução](https://telegra.ph/Altera%C3%A7%C3%A3o-modo-OMCI-para-OLT-de-outros-fabricantes-na-ONT-P20-AC1200-WIRELESS-XPON-07-09) |
 | 📡 VOIP na AC1200 WIRELESS XPON ONT P20 | [📖 Ver solução](https://telegra.ph/VOIP-na-AC1200-WIRELESS-XPON-ONT-P20-07-30) |
-| 🌐 Preset Parcial Passo a Passo xPon Ont P20 AC1200 MTK | [📖 Ver solução](https://telegra.ph/Preset-Parcial-Passo-a-Passo-xPon-Ont-P20-AC1200-MTK-11-14) |
 
 #### 📂 **P20 ZTE - ONU Wireless AC**
 | Tópico | Link FAQ |
