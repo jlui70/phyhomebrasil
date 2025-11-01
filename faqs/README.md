@@ -57,8 +57,7 @@
 | 🛠️ Gerenciamento de configuração do usuário (backup) | [📖 Ver solução](https://telegra.ph/Gerenciamento-de-configura%C3%A7%C3%A3o-do-usu%C3%A1rio-backu-up-P20-AC1200-Pro-01-26) |
 | 🔐 Redirecionamento de Portas na P20 AC1200 Wireless GPON ONT Pro "Z" | [📖 Ver solução](https://telegra.ph/Redirecionamento-de-Portas-na-P20-AC1200-Wireless-GPON-ONT-Pro-Z-08-24-2) |
 | 📶 AC1200 Wireless P20 ONT PRO CONFIGURAÇÃO OMCI | [📖 Ver solução](https://telegra.ph/AC1200-Wireless-P20-ONT-PRO-CONFIGURA%C3%87%C3%83O-OMCI-08-11) |
-| 📶 Configuração OLT VSOL Funcionando com a AC1200 Wireless P20 ONT PRO | [📖 Ver solução](https://telegra.ph/Configura%C3%A7%C3%A3o-OLT-VSOL-Funcionando-com-a-AC1200-Wireless-P20-ONT-PRO-06-02) |
-| 📶 Primeira configuração WAN como administrador | [📖 Ver solução](https://telegra.ph/Acessar-a-AC1200-Wireless-P20-ONT-PRO-como-administrador-e-fazer-a-primeira-configura%C3%A7%C3%A3o-WAN-12-29) |
+| 📦 Primeira configuração WAN como administrador | [📖 Ver solução](https://telegra.ph/Acessar-a-AC1200-Wireless-P20-ONT-PRO-como-administrador-e-fazer-a-primeira-configura%C3%A7%C3%A3o-WAN-12-29) |
 
 ---
 
