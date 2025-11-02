@@ -30,8 +30,7 @@
 #### 📂 **FHL2100 - OLT GPON 8 & 16 Portas**
 | Tópico | Link FAQ |
 |--------|----------|
-| 🌐 Habilitar SSH OLT FHL2100 - 08 | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---08-11-01) |
-| 🤖 Habilitar SSH OLT FHL2100 - 16 | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---16-11-01) |
+| | 🤖 Habilitar SSH OLT FHL2100 - 8 e 16 | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---16-11-01) |
 
 ### 📡 **ONUs**
 
