@@ -61,9 +61,9 @@
 
 ## 📊 **Estatísticas dos FAQs**
 
-![Total FAQs](https://img.shields.io/badge/FAQs_Disponíveis-50+-success?style=for-the-badge)
-![Produtos Cobertos](https://img.shields.io/badge/Produtos-6-blue?style=for-the-badge)
-![Categorias](https://img.shields.io/badge/Categorias-5-orange?style=for-the-badge)
+![Total FAQs]
+![Produtos Cobertos]
+![Categorias]
 
 ### **📈 FAQs Mais Acessados:**
 1. 🥇 Configuração VLAN FHL104C
