@@ -46,6 +46,8 @@
 - Tutoriais de instalação
 - Demonstrações técnicas
 
+📧 Suporte
+suportephyhome@gmail.com
 ---
 
 ## 📊 **Estatísticas**
