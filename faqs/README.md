@@ -26,6 +26,8 @@
 | 🌐 Habilitar SSH OLT  FHL208B | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL208B-11-01) |
 | 📡 IPOE - DHCP RELAY – OPTION 82 NA FHL208B | [📖 Ver solução](https://telegra.ph/IPOE---DHCP-RELAY--OPTION-82-NA-FHL208B-11-01) |
 | 🛠️ Configurar SNMP e OLT Gpon FHL208B | [📖 Ver solução](https://telegra.ph/Configurar-SNMP-e-OLT-Gpon-FHL208B-11-01) |
+| 🛠️ Configurar LACP OLT Gpon FHL208B | [📖 Ver solução](https://telegra.ph/Configura%C3%A7%C3%A3o-LACP---OLT-FHL208B-12-12) |
+
 
 #### 📂 **FHL2100 - OLT GPON 8 & 16 Portas**
 | Tópico | Link FAQ |
