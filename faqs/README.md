@@ -33,7 +33,7 @@
 | Tópico | Link FAQ |
 |--------|----------|
 | 🤖 Habilitar SSH OLT FHL2100 - 8 e 16 | [📖 Ver solução](https://telegra.ph/Habilitar-SSH-OLT-FHL2100---08-11-01) |
-| 🛠️ Limpar base de dados - Acelera autenticação de Ont´s quando OLT é reiniciada | [📖 Ver solução](https://) |
+| 🛠️ Limpar base de dados - Acelera autenticação de Ont´s quando OLT é reiniciada | [📖 Ver solução](https://telegra.ph/PROCEDIMENTO-PARA-LIMPAR-A-BASE-DE-DADOS-DA-OLT-FHL2100---8-e-16-Portas-01-05) |
 
 ### 📡 **ONUs**
 
